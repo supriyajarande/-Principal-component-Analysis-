@@ -1,1 +1,3 @@
-# -Principal-component-Analysis-
+# -Principal-component-Analysis
+Principal component analysis, or PCA, is a statistical technique to convert high dimensional data to low dimensional data by selecting the most important features that capture maximum information about the dataset. The features are selected on the basis of variance that they cause in the output. The feature that causes highest variance is the first principal component.
+The feature that is responsible for second highest variance is considered the second principal component, and so on. It is important to mention that principle components do not have any correlation with each other.
